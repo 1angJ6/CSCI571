@@ -1,3 +1,5 @@
-# My Awesome Book
+# CSCI571
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book contains a collection of notes from course **CSCI 571** in USC.
+
+
